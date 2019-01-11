@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import './App.css';
+import Button from '@material-ui/core/Button';
 
 class App extends Component {
     constructor() {
@@ -40,6 +41,9 @@ class App extends Component {
             <div>
                 <h2>Star Wars Movies</h2>
                 {movies}
+            <Button variant="contained" color="primary">
+                Hello World
+            </Button>
             </div>
         )
     }
