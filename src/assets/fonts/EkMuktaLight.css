@@ -1,0 +1,12 @@
+/* Webfont: EkMukta */@font-face {
+    font-family: 'EkMukta';
+    src: url('ekmukta/BloggerSans.eot'); /* IE9 Compat Modes */
+    src: url('bloggersans/BloggerSans.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('bloggersans/BloggerSans.woff') format('woff'), /* Modern Browsers */
+         url('bloggersans/BloggerSans.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('bloggersans/BloggerSans.svg#BloggerSans') format('svg'); /* Legacy iOS */
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
+

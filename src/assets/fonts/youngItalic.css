@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Young-Italic';
+    font-style: normal;
+    font-weight: 400;
+    src:
+            local('Young-Italic'),
+            url('young/young italic.ttf') format('ttf');
+}

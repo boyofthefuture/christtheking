@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Young';
+    font-style: normal;
+    font-weight: 400;
+    src:
+            local('Young'),
+            url('young/young.ttf') format('ttf');
+}
